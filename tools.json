@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "name": "appwrite",
+    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+    "category": "Containers",
+    "github_url": "https://github.com/appwrite/appwrite",
+    "website_url": "https://appwrite.io"
+  }
+]

@@ -3,20 +3,28 @@
 
 # ToolIndex — Homelab Tools
 
-**0 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
+**1 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--07--07-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--07--08-brightgreen?style=flat-square)
 </div>
 
 ---
 
 ## Categories
 
+- [Containers](#containers) (1)
 
 ---
 
+## Containers
+
+### appwrite ![stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=★&color=gold)
+
+Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more  
+  [GitHub](https://github.com/appwrite/appwrite) · [Website](https://appwrite.io)
+
 ---
 
-<div align="center"><sub>Last synced: 2026-07-07 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-07-08 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
