@@ -7,18 +7,18 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--09--01-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--09--02-brightgreen?style=flat-square)
 </div>
 
 ---
 
 ## Categories
 
-- [Containers](#containers) (1)
+- [APIs & Backend Platforms](#apis-backend-platforms) (1)
 
 ---
 
-## Containers
+## APIs & Backend Platforms
 
 ### appwrite ![stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=★&color=gold)
 
@@ -27,4 +27,4 @@ Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Inc
 
 ---
 
-<div align="center"><sub>Last synced: 2026-09-01 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-09-02 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
