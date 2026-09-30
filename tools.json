@@ -1,7 +1,7 @@
 [
   {
-    "name": "appwrite",
-    "description": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+    "name": "Appwrite",
+    "description": "This open-source platform provides developers and AI agents with unified authentication, databases, storage, and serverless functions, and it runs self-hosted or in the cloud.",
     "category": "APIs & Backend Platforms",
     "github_url": "https://github.com/appwrite/appwrite",
     "website_url": "https://appwrite.io"

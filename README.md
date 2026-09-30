@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--09--29-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--09--30-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -20,11 +20,11 @@
 
 ## APIs & Backend Platforms
 
-### appwrite ![stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=★&color=gold)
+### Appwrite ![stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=★&color=gold)
 
-Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more  
+This open-source platform provides developers and AI agents with unified authentication, databases, storage, and serverless functions, and it runs self-hosted or in the cloud.  
   [GitHub](https://github.com/appwrite/appwrite) · [Website](https://appwrite.io)
 
 ---
 
-<div align="center"><sub>Last synced: 2026-09-29 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-09-30 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
