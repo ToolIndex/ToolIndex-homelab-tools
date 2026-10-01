@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--09--30-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--01-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -22,9 +22,9 @@
 
 ### Appwrite ![stars](https://img.shields.io/github/stars/appwrite/appwrite?style=flat-square&label=★&color=gold)
 
-This open-source platform provides developers and AI agents with unified authentication, databases, storage, and serverless functions, and it runs self-hosted or in the cloud.  
+Appwrite is an open-source platform providing user accounts, databases, file storage, functions and realtime features, available self‑hosted or as a managed cloud service.  
   [GitHub](https://github.com/appwrite/appwrite) · [Website](https://appwrite.io)
 
 ---
 
-<div align="center"><sub>Last synced: 2026-09-30 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-10-01 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
