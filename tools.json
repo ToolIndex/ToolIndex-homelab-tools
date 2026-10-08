@@ -5,5 +5,12 @@
     "category": "APIs & Backend Platforms",
     "github_url": "https://github.com/appwrite/appwrite",
     "website_url": "https://appwrite.io"
+  },
+  {
+    "name": "AgentShield",
+    "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
+    "category": "Security & Identity",
+    "github_url": "https://github.com/affaan-m/agentshield",
+    "website_url": "https://cerebralvalley.ai/e/claude-code-hackathon"
   }
 ]
