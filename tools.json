@@ -12,5 +12,12 @@
     "category": "Security & Identity",
     "github_url": "https://github.com/affaan-m/agentshield",
     "website_url": "https://cerebralvalley.ai/e/claude-code-hackathon"
+  },
+  {
+    "name": "Restic",
+    "description": "Fast, secure, efficient backup program",
+    "category": "Storage & Backup",
+    "github_url": "https://github.com/restic/restic",
+    "website_url": "https://restic.net"
   }
 ]

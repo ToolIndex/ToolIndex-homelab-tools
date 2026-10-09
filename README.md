@@ -3,11 +3,11 @@
 
 # ToolIndex — Homelab Tools
 
-**2 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
+**3 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--08-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--09-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -16,6 +16,7 @@
 
 - [APIs & Backend Platforms](#apis-backend-platforms) (1)
 - [Security & Identity](#security-identity) (1)
+- [Storage & Backup](#storage-backup) (1)
 
 ---
 
@@ -33,6 +34,13 @@ Appwrite is an open-source platform providing user accounts, databases, file sto
 AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️  
   [GitHub](https://github.com/affaan-m/agentshield) · [Website](https://cerebralvalley.ai/e/claude-code-hackathon)
 
+## Storage & Backup
+
+### Restic ![stars](https://img.shields.io/github/stars/restic/restic?style=flat-square&label=★&color=gold)
+
+Fast, secure, efficient backup program  
+  [GitHub](https://github.com/restic/restic) · [Website](https://restic.net)
+
 ---
 
-<div align="center"><sub>Last synced: 2026-10-08 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-10-09 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
