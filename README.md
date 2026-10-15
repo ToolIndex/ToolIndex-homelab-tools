@@ -3,11 +3,11 @@
 
 # ToolIndex — Homelab Tools
 
-**3 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
+**5 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--14-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--15-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -15,6 +15,8 @@
 ## Categories
 
 - [APIs & Backend Platforms](#apis-backend-platforms) (1)
+- [Containers & Orchestration](#containers-orchestration) (1)
+- [Media & Streaming](#media-streaming) (1)
 - [Security & Identity](#security-identity) (1)
 - [Storage & Backup](#storage-backup) (1)
 
@@ -26,6 +28,20 @@
 
 Appwrite is an open-source platform providing user accounts, databases, file storage, functions and realtime features, available self‑hosted or as a managed cloud service.  
   [GitHub](https://github.com/appwrite/appwrite) · [Website](https://appwrite.io)
+
+## Containers & Orchestration
+
+### Yacht ![stars](https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=flat-square&label=★&color=gold)
+
+A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.  
+  [GitHub](https://github.com/SelfhostedPro/Yacht)
+
+## Media & Streaming
+
+### Beets ![stars](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=★&color=gold)
+
+Music library manager and MusicBrainz tagger.  
+  [GitHub](https://github.com/beetbox/beets) · [Website](https://beets.io/)
 
 ## Security & Identity
 
@@ -43,4 +59,4 @@ Fast, secure, efficient backup program
 
 ---
 
-<div align="center"><sub>Last synced: 2026-10-14 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-10-15 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>

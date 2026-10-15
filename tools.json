@@ -7,6 +7,20 @@
     "website_url": "https://appwrite.io"
   },
   {
+    "name": "Yacht",
+    "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.",
+    "category": "Containers & Orchestration",
+    "github_url": "https://github.com/SelfhostedPro/Yacht",
+    "website_url": "https://github.com/SelfhostedPro/Yacht"
+  },
+  {
+    "name": "Beets",
+    "description": "Music library manager and MusicBrainz tagger.",
+    "category": "Media & Streaming",
+    "github_url": "https://github.com/beetbox/beets",
+    "website_url": "https://beets.io/"
+  },
+  {
     "name": "AgentShield",
     "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
     "category": "Security & Identity",
