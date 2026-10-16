@@ -28,6 +28,13 @@
     "website_url": "https://cerebralvalley.ai/e/claude-code-hackathon"
   },
   {
+    "name": "Vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
+    "category": "Security & Identity",
+    "github_url": "https://github.com/dani-garcia/vaultwarden",
+    "website_url": "https://github.com/dani-garcia/vaultwarden"
+  },
+  {
     "name": "Restic",
     "description": "Fast, secure, efficient backup program",
     "category": "Storage & Backup",

@@ -3,11 +3,11 @@
 
 # ToolIndex — Homelab Tools
 
-**5 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
+**6 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--15-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--16-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -17,7 +17,7 @@
 - [APIs & Backend Platforms](#apis-backend-platforms) (1)
 - [Containers & Orchestration](#containers-orchestration) (1)
 - [Media & Streaming](#media-streaming) (1)
-- [Security & Identity](#security-identity) (1)
+- [Security & Identity](#security-identity) (2)
 - [Storage & Backup](#storage-backup) (1)
 
 ---
@@ -50,6 +50,11 @@ Music library manager and MusicBrainz tagger.
 AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️  
   [GitHub](https://github.com/affaan-m/agentshield) · [Website](https://cerebralvalley.ai/e/claude-code-hackathon)
 
+### Vaultwarden ![stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=★&color=gold)
+
+Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.  
+  [GitHub](https://github.com/dani-garcia/vaultwarden)
+
 ## Storage & Backup
 
 ### Restic ![stars](https://img.shields.io/github/stars/restic/restic?style=flat-square&label=★&color=gold)
@@ -59,4 +64,4 @@ Fast, secure, efficient backup program
 
 ---
 
-<div align="center"><sub>Last synced: 2026-10-15 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-10-16 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
