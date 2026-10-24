@@ -29,7 +29,7 @@
   },
   {
     "name": "Vaultwarden",
-    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.",
+    "description": "Vaultwarden is an unofficial Bitwarden server implementation written in Rust, designed for self-hosted password management in lightweight environments.",
     "category": "Security & Identity",
     "github_url": "https://github.com/dani-garcia/vaultwarden",
     "website_url": "https://github.com/dani-garcia/vaultwarden"

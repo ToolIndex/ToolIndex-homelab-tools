@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--23-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--24-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -52,7 +52,7 @@ AI agent security scanner. Detect vulnerabilities in agent configurations, MCP s
 
 ### Vaultwarden ![stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=★&color=gold)
 
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.  
+Vaultwarden is an unofficial Bitwarden server implementation written in Rust, designed for self-hosted password management in lightweight environments.  
   [GitHub](https://github.com/dani-garcia/vaultwarden)
 
 ## Storage & Backup
@@ -64,4 +64,4 @@ Fast, secure, efficient backup program
 
 ---
 
-<div align="center"><sub>Last synced: 2026-10-23 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-10-24 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
