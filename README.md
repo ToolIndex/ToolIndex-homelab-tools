@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--26-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--10--27-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -64,4 +64,4 @@ Fast, secure, efficient backup program
 
 ---
 
-<div align="center"><sub>Last synced: 2026-10-26 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-10-27 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
