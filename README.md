@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--02-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--03-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -40,7 +40,7 @@ A web interface for managing docker containers with an emphasis on templating to
 
 ### Beets ![stars](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=★&color=gold)
 
-Music library manager and MusicBrainz tagger.  
+Beets is a media library management system that catalogs your collection and automatically improves its metadata.  
   [GitHub](https://github.com/beetbox/beets) · [Website](https://beets.io/)
 
 ## Security & Identity
@@ -59,9 +59,9 @@ Vaultwarden is an unofficial Bitwarden server implementation written in Rust, de
 
 ### Restic ![stars](https://img.shields.io/github/stars/restic/restic?style=flat-square&label=★&color=gold)
 
-Fast, secure, efficient backup program  
+Restic is a secure backup program for Linux, macOS, and Windows that encrypts and deduplicates data across local and cloud file storage backends.  
   [GitHub](https://github.com/restic/restic) · [Website](https://restic.net)
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-02 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-03 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
