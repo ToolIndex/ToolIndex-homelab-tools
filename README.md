@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--04-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--05-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -47,7 +47,7 @@ Beets is a media library management system that catalogs your collection and aut
 
 ### AgentShield ![stars](https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=★&color=gold)
 
-AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️  
+AgentShield is a security auditor for AI agent configurations that scans setup directories for secret leaks, permission misconfigurations, and prompt injection vectors.  
   [GitHub](https://github.com/affaan-m/agentshield) · [Website](https://cerebralvalley.ai/e/claude-code-hackathon)
 
 ### Vaultwarden ![stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=★&color=gold)
@@ -64,4 +64,4 @@ Restic is a secure backup program for Linux, macOS, and Windows that encrypts an
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-04 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-05 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
