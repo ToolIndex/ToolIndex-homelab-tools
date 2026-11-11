@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--10-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--11-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -64,4 +64,4 @@ Restic is a secure backup program for Linux, macOS, and Windows that encrypts an
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-10 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-11 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
