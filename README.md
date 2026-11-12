@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--11-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--12-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -40,14 +40,14 @@ A web interface for managing docker containers with an emphasis on templating to
 
 ### Beets ![stars](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=★&color=gold)
 
-Beets is a media library management system that catalogs your collection and automatically improves its metadata.  
+Beets is a media library management system for music collections. It catalogs your music, improves its metadata, and provides tools for manipulating and accessing it.  
   [GitHub](https://github.com/beetbox/beets) · [Website](https://beets.io/)
 
 ## Security & Identity
 
 ### AgentShield ![stars](https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=★&color=gold)
 
-AgentShield is a security auditor for AI agent configurations that scans setup directories for secret leaks, permission misconfigurations, and prompt injection vectors.  
+AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, and hook injection.  
   [GitHub](https://github.com/affaan-m/agentshield) · [Website](https://cerebralvalley.ai/e/claude-code-hackathon)
 
 ### Vaultwarden ![stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=★&color=gold)
@@ -59,9 +59,9 @@ Vaultwarden is an unofficial Bitwarden server implementation written in Rust, de
 
 ### Restic ![stars](https://img.shields.io/github/stars/restic/restic?style=flat-square&label=★&color=gold)
 
-Restic is a secure backup program for Linux, macOS, and Windows that encrypts and deduplicates data across local and cloud file storage backends.  
+restic is a backup program that is fast, efficient and secure, and it runs on Linux, macOS, Windows, FreeBSD and OpenBSD.  
   [GitHub](https://github.com/restic/restic) · [Website](https://restic.net)
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-11 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-12 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>

@@ -15,14 +15,14 @@
   },
   {
     "name": "Beets",
-    "description": "Beets is a media library management system that catalogs your collection and automatically improves its metadata.",
+    "description": "Beets is a media library management system for music collections. It catalogs your music, improves its metadata, and provides tools for manipulating and accessing it.",
     "category": "Media & Streaming",
     "github_url": "https://github.com/beetbox/beets",
     "website_url": "https://beets.io/"
   },
   {
     "name": "AgentShield",
-    "description": "AgentShield is a security auditor for AI agent configurations that scans setup directories for secret leaks, permission misconfigurations, and prompt injection vectors.",
+    "description": "AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, and hook injection.",
     "category": "Security & Identity",
     "github_url": "https://github.com/affaan-m/agentshield",
     "website_url": "https://cerebralvalley.ai/e/claude-code-hackathon"
@@ -36,7 +36,7 @@
   },
   {
     "name": "Restic",
-    "description": "Restic is a secure backup program for Linux, macOS, and Windows that encrypts and deduplicates data across local and cloud file storage backends.",
+    "description": "restic is a backup program that is fast, efficient and secure, and it runs on Linux, macOS, Windows, FreeBSD and OpenBSD.",
     "category": "Storage & Backup",
     "github_url": "https://github.com/restic/restic",
     "website_url": "https://restic.net"
