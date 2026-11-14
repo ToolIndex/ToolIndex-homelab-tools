@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--13-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--14-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -64,4 +64,4 @@ restic is a backup program that is fast, efficient and secure, and it runs on Li
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-13 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-14 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
