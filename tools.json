@@ -8,21 +8,21 @@
   },
   {
     "name": "Yacht",
-    "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.",
+    "description": "Yacht is a container management UI focused on templates and 1-click deployments. It supports Docker-Compose and advanced container editing, and it reads Portainer templates.",
     "category": "Containers & Orchestration",
     "github_url": "https://github.com/SelfhostedPro/Yacht",
     "website_url": "https://github.com/SelfhostedPro/Yacht"
   },
   {
     "name": "Beets",
-    "description": "Beets is a media library management system for music collections. It catalogs your music, improves its metadata, and provides tools for manipulating and accessing it.",
+    "description": "Beets is a media library management system for music collections. It catalogs your music, automatically improves its metadata, and offers tools to manipulate and access it.",
     "category": "Media & Streaming",
     "github_url": "https://github.com/beetbox/beets",
     "website_url": "https://beets.io/"
   },
   {
     "name": "AgentShield",
-    "description": "AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, and hook injection.",
+    "description": "AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, hook injection and MCP server risks.",
     "category": "Security & Identity",
     "github_url": "https://github.com/affaan-m/agentshield",
     "website_url": "https://cerebralvalley.ai/e/claude-code-hackathon"

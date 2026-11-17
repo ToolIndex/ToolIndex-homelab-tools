@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--16-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--17-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -33,21 +33,21 @@ Appwrite is an open-source platform providing user accounts, databases, file sto
 
 ### Yacht ![stars](https://img.shields.io/github/stars/SelfhostedPro/Yacht?style=flat-square&label=★&color=gold)
 
-A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.  
+Yacht is a container management UI focused on templates and 1-click deployments. It supports Docker-Compose and advanced container editing, and it reads Portainer templates.  
   [GitHub](https://github.com/SelfhostedPro/Yacht)
 
 ## Media & Streaming
 
 ### Beets ![stars](https://img.shields.io/github/stars/beetbox/beets?style=flat-square&label=★&color=gold)
 
-Beets is a media library management system for music collections. It catalogs your music, improves its metadata, and provides tools for manipulating and accessing it.  
+Beets is a media library management system for music collections. It catalogs your music, automatically improves its metadata, and offers tools to manipulate and access it.  
   [GitHub](https://github.com/beetbox/beets) · [Website](https://beets.io/)
 
 ## Security & Identity
 
 ### AgentShield ![stars](https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=★&color=gold)
 
-AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, and hook injection.  
+AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, hook injection and MCP server risks.  
   [GitHub](https://github.com/affaan-m/agentshield) · [Website](https://cerebralvalley.ai/e/claude-code-hackathon)
 
 ### Vaultwarden ![stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=★&color=gold)
@@ -64,4 +64,4 @@ restic is a backup program that is fast, efficient and secure, and it runs on Li
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-16 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-17 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
