@@ -7,7 +7,7 @@
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--19-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--20-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -52,7 +52,7 @@ AgentShield is a security auditor for AI agent configurations that scans Claude 
 
 ### Vaultwarden ![stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&label=★&color=gold)
 
-Vaultwarden is an unofficial Bitwarden server implementation written in Rust, designed for self-hosted password management in lightweight environments.  
+Vaultwarden is an alternative server implementation of the Bitwarden Client API, written in Rust and compatible with official Bitwarden clients, for self-hosted deployments.  
   [GitHub](https://github.com/dani-garcia/vaultwarden)
 
 ## Storage & Backup
@@ -64,4 +64,4 @@ restic is a backup program that is fast, efficient and secure, and it runs on Li
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-19 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-20 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
