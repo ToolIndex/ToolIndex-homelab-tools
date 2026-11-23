@@ -21,6 +21,13 @@
     "website_url": "https://beets.io/"
   },
   {
+    "name": "Toolindex-maintainer-test",
+    "description": "A tiny command line script that prints the current date and the free disk space of the home directory, edited by its maintainer.",
+    "category": "Monitoring & Observability",
+    "github_url": "https://github.com/marcobitsch/toolindex-maintainer-test",
+    "website_url": "https://github.com/marcobitsch/toolindex-maintainer-test"
+  },
+  {
     "name": "AgentShield",
     "description": "AgentShield is a security auditor for AI agent configurations that scans Claude Code setups for hardcoded secrets, permission misconfigs, hook injection and MCP server risks.",
     "category": "Security & Identity",

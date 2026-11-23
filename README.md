@@ -3,11 +3,11 @@
 
 # ToolIndex — Homelab Tools
 
-**6 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
+**7 curated homelab tools**, automatically synced nightly from [ToolIndex](https://toolindex.dev).
 
 [![Visit ToolIndex](https://img.shields.io/badge/Visit%20ToolIndex-black?style=for-the-badge)](https://toolindex.dev)
 
-![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--22-brightgreen?style=flat-square)
+![Last Synced](https://img.shields.io/badge/last%20synced-2026--11--23-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -17,6 +17,7 @@
 - [APIs & Backend Platforms](#apis-backend-platforms) (1)
 - [Containers & Orchestration](#containers-orchestration) (1)
 - [Media & Streaming](#media-streaming) (1)
+- [Monitoring & Observability](#monitoring-observability) (1)
 - [Security & Identity](#security-identity) (2)
 - [Storage & Backup](#storage-backup) (1)
 
@@ -43,6 +44,13 @@ Yacht is a container management UI focused on templates and 1-click deployments.
 Beets is a media library management system for music collections. It catalogs your music, automatically improves its metadata, and offers tools to manipulate and access it.  
   [GitHub](https://github.com/beetbox/beets) · [Website](https://beets.io/)
 
+## Monitoring & Observability
+
+### Toolindex-maintainer-test ![stars](https://img.shields.io/github/stars/marcobitsch/toolindex-maintainer-test?style=flat-square&label=★&color=gold)
+
+A tiny command line script that prints the current date and the free disk space of the home directory, edited by its maintainer.  
+  [GitHub](https://github.com/marcobitsch/toolindex-maintainer-test)
+
 ## Security & Identity
 
 ### AgentShield ![stars](https://img.shields.io/github/stars/affaan-m/agentshield?style=flat-square&label=★&color=gold)
@@ -64,4 +72,4 @@ restic is a backup program that is fast, efficient and secure, and it runs on Li
 
 ---
 
-<div align="center"><sub>Last synced: 2026-11-22 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
+<div align="center"><sub>Last synced: 2026-11-23 · Powered by <a href="https://toolindex.dev">ToolIndex</a></sub></div>
